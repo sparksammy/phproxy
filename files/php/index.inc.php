@@ -12,12 +12,12 @@ echo '<?xml version="1.0" encoding="utf-8"?>';
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
 <head>
-  <title>PHProxy</title>
+  <title>01010000 01110010 01101111 01111000 01111001 </title>
   <link rel="stylesheet" type="text/css" href="./files/css/style.css" title="Default Theme" media="all" />
 </head>
 <body onload="document.getElementById('address_box').focus()">
 <div id="container">
-  <h1 id="title">PHProxy</h1>
+  <h1 id="title">01010000 01110010 01101111 01111000 01111001 </h1>
   <ul id="navigation">
     <li><a href="<?php echo $GLOBALS['_script_base'] ?>">URL Form</a></li>
     <li><a href="javascript:alert('cookie managment has not been implemented yet')">Manage Cookies</a></li>
@@ -99,7 +99,7 @@ switch ($data['category'])
       ?>
     </ul>
   </form>
-  <div id="footer"><a href="https://phproxy.github.io">PHProxy</a></div>
+  <div id="footer"><a href="https://phproxy.github.io">01010000 01110010 01101111 01111000 01111001 </a></div>
 </div>
 </body>
 </html>
