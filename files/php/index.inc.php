@@ -99,7 +99,7 @@ switch ($data['category'])
       ?>
     </ul>
   </form>
-  <div id="footer"><a href="https://phproxy.github.io">01010000 01110010 01101111 01111000 01111001 </a></div>
+  <div id="footer"><a href="https://phproxy.github.io">01010000 01110010 01101111 01111000 01111001 00100000 00101101 00100000 01100010 01111001 00100000 01010011 01001100 01001100 01001111 01010010 01000100  </a></div>
 </div>
 </body>
 </html>
